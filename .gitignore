@@ -22,3 +22,7 @@
 /clientnpm-debug.log*
 /clientyarn-debug.log*
 /clientyarn-error.log*
+
+#env files
+/client.env
+/sever.env
