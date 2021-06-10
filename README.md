@@ -10,4 +10,4 @@ Client;
 CLIENT_ID= myClientId
 CLIENT_SECRET = myClientSecret
 
-Then run both the server and the client app;ications.
+Then run both the server and the client applications.
