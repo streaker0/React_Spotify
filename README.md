@@ -1,5 +1,5 @@
 # React_Spotify
-Making Spotify with React
+Making Spotify with React.
 To launch the app, go to https://developer.spotify.com/dashboard/login and create a new app, once the app is created the add a .env file to both server and client with the formart as follows;
 Server;
 CLIENT_ID= myClientId
